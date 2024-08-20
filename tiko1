@@ -92,26 +92,26 @@ dist
 # vuepress build output
 .vuepress/dist
 
-## Serverless directories
+# Serverless directories
 .serverless/
 
-# FuseBox cache
+## FuseBox cache
 .fusebox/
 
-# DynamoDB Local files
+## DynamoDB Local files
 .dynamodb/
 
-# TernJS port file
+## TernJS port file
 .tern-port
 
-# macOS
+## macOS
 .DS_Store
 
-# python
+## python
 pycache/
 
-# Ignore .husky for new contributors using lefthook while maintaining
-# backwards compatibility for past contributors
+## Ignore .husky for new contributors using lefthook while maintaining
+## backwards compatibility for past contributors
 .husky
 
 
